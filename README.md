@@ -53,7 +53,7 @@
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung36g1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Trungquandev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=manhdung36g1&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
@@ -67,7 +67,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="" target="blank">
-    <img width="90" height="90" src="images/avatar.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/avatar.png" alt="manhdung-blog" />
   </a>
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="manhdung-facebook" />
