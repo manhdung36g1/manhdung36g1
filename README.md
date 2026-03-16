@@ -66,7 +66,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="" target="blank">
+  <a href="https://x.com/manhdung1402?s=21" target="blank">
     <img width="90" height="90" src="images/avatar.png" alt="manhdung-blog" />
   </a>
   <a href="" target="blank">
