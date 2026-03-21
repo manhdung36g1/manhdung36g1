@@ -82,7 +82,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="manhdung-instagram" />
   </a>
   <a href="mailto:manhdung.36g1@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="manhdung-email" />
+    <img src="https://img.icons8.com/bubbles/100/gmail.png" alt="manhdung-email" />
   </a>
 </div>
 
