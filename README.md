@@ -73,13 +73,13 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="manhdung-facebook" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="manhdung-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/discord-logo.png" alt="manhdung-discord" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="manhdung-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/telegram-app.png" alt="manhdung-telegram" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="manhdung-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/tiktok.png" alt="manhdung-tiktok" />
   </a>
   <a href="mailto:manhdung.36g1@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/gmail.png" alt="manhdung-email" />
